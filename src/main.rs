@@ -4,7 +4,6 @@ impl Solution {
     pub fn original_digits(s: String) -> String {
         s
     }
-
 }
 
 
@@ -17,3 +16,12 @@ fn main() {
 }
 
 
+// zero one two three four five six seven eight nine
+// z: zero
+// w: two 
+// u: four
+// x: six 
+// g: eight
+
+// zero two four six eight 
+// one three five seven nine
